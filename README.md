@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Safa Deldoul
-- I'm a Software Engineer
+- 👩‍💻I'm a Software Engineer
 - 👀 I’m interested in mobile development, web and Deep learning!
 - 📫 How to reach me : https://linkedin.com/in/safa-deldoul-428b76190/
 
